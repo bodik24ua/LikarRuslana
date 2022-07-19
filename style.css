@@ -201,7 +201,7 @@ a:active {
 }
 
 .menu-container ul li a {
-  font-size: 3rem; 
+  font-size: 2rem; 
   padding-left: .5rem;
 }
 
@@ -536,6 +536,7 @@ a:active {
 
 #welcome-section .container h1 .line:last-child {
   margin-left: 2rem;
+  font-size: 0.6em;
 }
 
 #welcome-section .container .buttons {
@@ -596,17 +597,17 @@ a:active {
 
 .surName{
     display: block;
-    font-size: 48px;
+    font-size: 0.65em;
 }
 
 .Name{
     display: block;
-    font-size: 42px;
+    font-size: 0.6em;
 }
 
 .fatherName{
     display: block;
-    font-size: 42px;
+    font-size: 0.55em;
 }
 
 .color {
@@ -1113,7 +1114,7 @@ footer {
   bottom: 0;
   left: 0;
   width: 100%;
-  height: 100px;
+  height: 75px;
   background: #1f25327a;
   z-index: 1;
   color: wheat;

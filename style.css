@@ -461,7 +461,7 @@ a:active {
   width: 50%;
   height: 50%;
   opacity: 0;
-  animation: silhouette-move-in 1000ms 800ms forwards;
+  animation: silhouette-move-in 2000ms 800ms forwards;
 }
 
 @keyframes silhouette-move-in {
